@@ -1,0 +1,1305 @@
+/* dosis-300 - latin */
+@font-face {
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 300;
+src: url('../fonts/dosis-v27-latin-300.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/dosis-v27-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/dosis-v27-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/dosis-v27-latin-300.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/dosis-v27-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/dosis-v27-latin-300.svg#Dosis') format('svg'); /* Legacy iOS */
+}
+/* dosis-regular - latin */
+@font-face {
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 400;
+src: url('../fonts/dosis-v27-latin-regular.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/dosis-v27-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/dosis-v27-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/dosis-v27-latin-regular.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/dosis-v27-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/dosis-v27-latin-regular.svg#Dosis') format('svg'); /* Legacy iOS */
+}
+/* dosis-500 - latin */
+@font-face {
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 500;
+src: url('../fonts/dosis-v27-latin-500.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/dosis-v27-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/dosis-v27-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/dosis-v27-latin-500.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/dosis-v27-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/dosis-v27-latin-500.svg#Dosis') format('svg'); /* Legacy iOS */
+}
+/* dosis-700 - latin */
+@font-face {
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 700;
+src: url('../fonts/dosis-v27-latin-700.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/dosis-v27-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/dosis-v27-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/dosis-v27-latin-700.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/dosis-v27-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/dosis-v27-latin-700.svg#Dosis') format('svg'); /* Legacy iOS */
+}
+
+
+
+/* lora-regular - latin */
+@font-face {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+src: url('../fonts/lora-v26-latin-regular.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/lora-v26-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/lora-v26-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/lora-v26-latin-regular.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/lora-v26-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/lora-v26-latin-regular.svg#Lora') format('svg'); /* Legacy iOS */
+}
+/* lora-500 - latin */
+@font-face {
+font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+src: url('../fonts/lora-v26-latin-500.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/lora-v26-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/lora-v26-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/lora-v26-latin-500.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/lora-v26-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/lora-v26-latin-500.svg#Lora') format('svg'); /* Legacy iOS */
+}
+/* lora-italic - latin */
+@font-face {
+font-family: 'Lora';
+font-style: italic;
+font-weight: 400;
+src: url('../fonts/lora-v26-latin-italic.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/lora-v26-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/lora-v26-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/lora-v26-latin-italic.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/lora-v26-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/lora-v26-latin-italic.svg#Lora') format('svg'); /* Legacy iOS */
+}
+/* lora-500italic - latin */
+@font-face {
+font-family: 'Lora';
+font-style: italic;
+font-weight: 500;
+src: url('../fonts/lora-v26-latin-500italic.eot'); /* IE9 Compat Modes */
+src: local(''),
+     url('../fonts/lora-v26-latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/lora-v26-latin-500italic.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/lora-v26-latin-500italic.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/lora-v26-latin-500italic.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/lora-v26-latin-500italic.svg#Lora') format('svg'); /* Legacy iOS */
+}
+
+
+
+/*   ====================================================================================
+                         ★★★         Index CSS         ★★★ 
+     ==================================================================================== */
+
+html{
+     scroll-behavior: smooth;
+}
+:root{
+     --bgTheme: #445F50;
+     --colorwhite: #fff;
+     --menucolor: #D84F0C;
+     --paragraph: #6C7772;
+     --dosis:'dosis';
+     --lora:'lora';
+}
+
+     /* ------------- Default CSS ------------- */
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body{
+     font-family: var(--dosis);
+     line-height: 28px;
+}
+ul{
+     list-style: none;
+}
+a{
+     text-decoration: none;
+}
+img{
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+}
+video{
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+}
+     /* ------------- Direct Class CSS ------------- */
+.container{
+     width: 1260px;
+     margin: 0 auto;
+}
+.left{
+     display: flex;
+     flex-wrap: wrap;
+}
+.h_center{                              /* h - Vertical */
+     justify-content: center;
+}
+.h_between{
+     justify-content: space-between;
+}
+.v_center{                              /*  v - Horizontal */
+     align-items: center;
+}
+.bgTheme{
+     background-color: var(--bgTheme);
+     color: white;
+}
+
+/* ------------- Section Top-Bottom Padding ------------- */
+.topbottom_padding{
+     padding-top: 70px;
+     padding-bottom: 70px;
+}
+
+
+/*   ==========================================================================
+                    ★        Header Design        ★
+     ========================================================================== */
+/* fixed Topbar */
+.fixed{
+     position: fixed;
+     top:0; 
+     left:0;
+     width: 100%; 
+     z-index: 9999;
+}
+.fixed .top_header{
+     background-color: rgba(68, 95, 80, .9);
+}
+.fixed .main_menu li a{
+     line-height: 72px;
+}
+.fixed .logo a img{
+     opacity: 1;
+}
+.fixed .fixed_logo a img{     
+     opacity: 0;
+}
+.top_header{
+     width: 100%;
+     position: absolute;
+     top: 0;
+     left: 0;
+     z-index: 9999;
+}
+
+     /* ------------- Logo setup ------------- */
+.logo{
+     width: 20%;
+     margin: auto 0px;
+}
+.logo img{
+     opacity: 0;
+     width: 160px;
+     object-fit: contain;
+     padding-left: 15px;
+}
+.fixed_logo{
+     width: 160px;
+     object-fit: contain;
+     padding-left: 15px;
+     position: absolute;
+}
+
+     /* ------------- Mega menu ------------- */
+.main_menu li{
+     position: relative;
+     padding: 0 14px;
+
+     cursor: pointer;
+}
+.main_menu li a{
+     line-height: 120px;
+     color: #fff;
+     font-family: var(--dosis);
+     font-size: 16px;
+     font-weight: 800;
+     text-transform: uppercase;
+
+     transition: .3s;
+}
+.main_menu li:hover a,
+.main_menu li.active a
+{
+     color: #d84f0c;
+}
+
+/* Fix Button */
+.fix_btn{
+     position: fixed;
+     bottom: 10px;
+     right: 10px;
+     padding: 3px 8px;
+     background-color: var(--menucolor);
+     z-index: 9999;
+}
+.fix_btn i{
+     font-size: 20px;
+     color: var(--colorwhite);
+}
+
+/*   ==========================================================================
+                    ★        First Section Design        ★
+                                   Home
+     ========================================================================== */
+     /* ------------- Home Section background image ------------- */
+.first_bgimg{
+     position: relative;
+}
+.first_bgimg img{
+     width: 100%;
+     height: 630px;
+}
+
+     /* ------------- Home Section Content ------------- */
+.home_content{
+     position: absolute;
+     left: 50%;
+     bottom: 10px;
+     transform: translateX(-50%);
+     color: var(--colorwhite);
+}
+.home_content p,
+.home_content h2
+{
+     text-transform: capitalize;
+     font-weight: 500;
+     width: 100%;
+     text-align: center;
+}
+.home_content p{
+     font-family: var(--lora);
+     font-size: 22px;
+     font-style: italic;
+     margin-bottom: 34px;
+}
+.home_content h2{
+     font-size: 62px;
+     margin-bottom: 60px;
+}
+.home_down_angle{
+     width: 100%;
+     text-align: center;
+     font-size: 42px;
+     color: var(--menucolor);
+
+     animation: 2s updown linear infinite;
+}
+@keyframes updown{
+     0%{
+          transform: translateY(0);
+     }
+     30%{
+          transform: translatey(-5px);
+     }
+     50%{
+          transform: translateY(10px);
+     }
+     70%{
+          transform: translateY(-10px);
+     }
+     100%{
+          transform: translateY(0);
+     }
+}
+
+/*   ==========================================================================
+                    ★        Second Section Design        ★
+                                   About Us
+     ========================================================================== */
+     /* About Section about logo icon  */
+.about_img i{
+     color: var(--menucolor);
+     font-size: 40px;
+}
+
+     /* About section title */
+.aboutsec_title{
+     text-align: center;
+}
+.about_title{
+     margin-top: 30px;
+}
+.about_title p{
+     width: auto;
+     font-family: var(--dosis);
+     font-size: 60px;
+     font-weight: 500;
+     color: var(--bgTheme);
+     padding-bottom: 20px;
+     border-bottom: 3px solid var(--bgTheme);
+}
+.about_title_content{
+     font-family: var(--lora);
+     font-size: 22px;
+     font-style: italic;
+     margin-bottom: 28px;
+     color: var(--bgTheme);
+     margin-top: 5px;
+}
+.aboutleft_content{
+     width: 50%;
+     padding: 0 15px;
+     margin-bottom: 20px;
+}
+.aboutright_content{
+     width: 50%;
+     padding: 0 15px;
+}
+.aboutleft_content p,
+.aboutright_content p
+{
+     margin-bottom: 8px;
+     font-family: var(--lora);
+     font-size: 15px;
+     line-height: 28px;
+     color: var(--paragraph);
+     text-rendering: optimizelegibility;
+}
+.aboutleft_content p:first-child::first-letter{
+     font-family: var(--lora);
+     font-size: 50px;
+}
+
+     /* About Sign Image */
+.sign_img{
+     width: 300px;
+     height: 100%;
+}
+     /* about 2 section image and content */
+          /* left side image */
+.left_img_section{
+     width: 50%;
+}
+.left_bgimg{
+     height: 635px;
+     width: 100%;
+     display: block;
+     background-image: url(../image/asset\ 30.jpeg);
+     background-size: cover;
+}
+          /* right side content */
+.right_content_section{
+     width: 50%;
+     height: 635px;
+     text-align: center;
+     background-color: #EFF1F0;
+}
+.right_content h2{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 43px;
+     color: var(--menucolor);
+     line-height: 50px;
+     margin-bottom: 10px;
+}
+.right_content h4{
+     font-family: var(--lora);
+     font-style: italic;
+     font-weight: 400;
+     font-size: 18px;
+     color: #374E41;
+     line-height: 26px;
+}
+.right_line{
+     height: 4px;
+     width: 50px;
+     background-color: #B1BCB7;
+     margin: 20px auto;
+}
+.right_content p{
+     width: 440px;
+     font-family: var(--lora);
+     font-size: 13px;
+     line-height: 23px;
+     color: var(--paragraph);
+}
+.right_btn{
+     margin: 25px auto;
+     padding: 8px 0;
+     width: 100px;
+     background-color: var(--bgTheme);
+
+     transition: .3s;
+}
+.right_btn a{
+     font-family: var(--dosis);
+     font-size: 13px;
+     font-weight: 800;
+     color: var(--colorwhite);
+}
+.right_btn:hover{
+     cursor: pointer;
+     background-color: var(--menucolor);
+}
+
+
+     /* about 2 section image and content */
+          /* left side content */
+.left_content_section{
+     width: 50%;
+     height: 635px;
+     text-align: center;
+     background-color: #EFF1F0;
+}
+.left_content h2{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 43px;
+     color: var(--menucolor);
+     line-height: 50px;
+     margin-bottom: 10px;
+}
+.left_content h4{
+     font-family: var(--lora);
+     font-style: italic;
+     font-weight: 400;
+     font-size: 18px;
+     color: #374E41;
+     line-height: 26px;
+}
+.left_line{
+     height: 4px;
+     width: 50px;
+     background-color: #B1BCB7;
+     margin: 20px auto;
+}
+.left_content p{
+     width: 440px;
+     font-family: var(--lora);
+     font-size: 13px;
+     line-height: 23px;
+     color: var(--paragraph);
+}
+.left_btn{
+     margin: 25px auto;
+     padding: 8px 10px;
+     width: 120px;
+     background-color: var(--bgTheme);
+
+     transition: .3s;
+}
+.left_btn:hover{
+     cursor: pointer;
+     background-color: var(--menucolor);
+}
+.left_btn a{
+     font-family: var(--dosis);
+     font-size: 13px;
+     font-weight: 800;
+     color: var(--colorwhite);
+}
+          /* right side image */
+.right_img_section{
+     width: 50%;
+}
+.right_bgimg{
+     height: 635px;
+     width: 100%;
+     display: block;
+     background-image: url(../image/asset\ 31.jpeg);
+     background-size: cover;
+     background-position: right bottom;
+}
+
+
+          /* RECENT FEEDBACK */
+.feedback_bgimg{
+     text-align: center;
+     background-image: url(../image/asset\ 32.jpeg);
+}
+.feedback_line{
+     margin: 20px auto;
+     height: 4px;
+     width: 60px;
+     background-color: var(--menucolor);
+}
+.feedback_title{
+     text-align: center;
+}
+.feedback_title h2{
+     color: var(--colorwhite);
+     font-family: var(--dosis);
+     font-size: 33px;
+     font-weight: 500;
+     line-height: 40px;
+}
+.feedback_title h4{
+     margin: 10px auto 70px;
+     width: 650px;
+     color: var(--colorwhite);
+     font-family: var(--lora);
+     font-size: 15px;
+     font-weight: 500;
+     line-height: 25px;
+}
+          /* RECENT FEEDBACK Profile Slider*/
+.slider_img{
+     display: inline-block;
+}
+.slider_img img{
+     height: 70px;
+}
+.slider_content{
+     width: 1080px;
+     margin: 10px auto;
+}
+.slider_content p:first-child{
+     font-family: var(--lora);
+     font-size: 19px;
+     line-height: 28px;
+     font-style: italic;
+     color: var(--colorwhite);
+     padding: 10px 0;
+}
+.slider_content p{
+     font-family: var(--dosis);
+     font-size: 20px;
+     line-height: 25px;
+     color: var(--menucolor);
+}
+.slider_content p:nth-child(3){
+     font-family: var(--lora);
+     font-size: 13px;
+     font-weight: 500;
+     line-height: 28px;
+     font-style: italic;
+     color: var(--colorwhite);
+}
+.slider_star_5{
+     color: #D2D222;
+     font-size: 14px;
+}
+.slider_star_4{
+     color: #D2D222;
+     font-size: 14px;
+}
+.slider_star_4 i:nth-child(5){
+     color: #C8C9C3;
+     font-size: 14px;
+}
+
+          /* Slider Dots */
+.owl-dot{
+     margin-bottom: 50px !important;
+}
+.owl-dot span{
+     height: 5px !important;
+     width: 30px !important;
+     background-color: #fff !important;
+     border-radius: 0 !important;
+}
+.owl-dot.active span{
+     background-color: var(--menucolor) !important;
+}
+
+/*   ==========================================================================
+                    ★        Third Section Design        ★
+                                   Our Team
+     ========================================================================== */
+     /* Our Team  People*/
+.ourteam_title{
+     text-align: center;
+}
+.ourteam_img i{
+     color: var(--menucolor);
+     font-size: 40px;
+}
+
+.ourteam_title{
+     margin-top: 30px;
+}
+.ourteam_title>p{
+     width: 230px;
+     font-family: var(--dosis);
+     font-size: 60px;
+     font-weight: 500;
+     color: var(--bgTheme);
+     padding-bottom: 20px;
+     border-bottom: 3px solid var(--bgTheme);
+}
+.ourteam_title_content{
+     font-family: var(--lora);
+     font-size: 22px;
+     font-style: italic;
+     margin-bottom: 28px;
+     color: var(--bgTheme);
+     margin-top: 5px;
+}
+.ourteam_sec_p p{
+     width: 810px;
+     font-family: var(--lora);
+     font-size: 15px;
+     line-height: 25px;
+     color: var(--paragraph);
+     margin-bottom: 50px;
+}
+
+.layer_img{
+     width: 33.33%;
+     position: relative;
+     padding: 0 15px;
+}
+.green_layer{
+     position: absolute;
+     height: 517px;
+     width: 389px;
+     top: 0;
+     bottom: 0;
+     background-color: var(--bgTheme);
+     opacity: 0;
+     filter: opacity(.9);
+
+     transition: .3s;
+}
+.img_padding:hover .green_layer,
+.img_padding:hover .ourteam_img_content,
+.img_padding:hover .ourteam_hover_icon
+{
+     opacity: 1;
+}
+.img_padding:hover .ourteam_img_content{
+     transform: scale(1);
+}
+.ourteam_img_content{
+     position: absolute;
+     top: 43%;
+     left: 10%;
+     transform: translateX(-50%);
+     width: 350px;
+
+     opacity: 0;
+     transform: scale(.5);
+     transition: .3s;
+}
+.ourteam_img_content h2{
+     font-family: var(--dosis);
+     font-size: 27px;
+     font-weight: 800;
+     line-height: 33.3px;
+     color: var(--colorwhite);
+}
+.ourteam_img_content p{
+     font-family: var(--lora);
+     font-size: 15px;
+     font-weight: 500;
+     line-height: 22.5px;
+     color: var(--colorwhite);
+}
+.ourteam_hover_icon{
+     position: absolute;
+     bottom: 9%;
+     left: 50%;
+     transform: translateX(-50%);
+     opacity: 0;
+     transition: .3s;
+}
+.ourteam_hover_icon i{
+     font-size: 18px;
+     padding: 0 5px;
+     color: var(--colorwhite);
+     transition: 3s;
+}
+.dribble,
+.twitter,
+.pinterest
+{
+     transition: .3s;
+}
+.img_padding:hover .dribble{
+     transition-delay: .3s;
+     transform: translateY(-45px);
+}
+.img_padding:hover .twitter{
+     transition-delay: .5s;
+     transform: translateY(-45px);
+}
+.img_padding:hover .pinterest{
+     transition-delay: .7s;
+     transform: translateY(-45px);
+}
+.img_content h2{
+     font-family: var(--dosis);
+     font-size: 22px;
+     line-height: 25.5px;
+     font-weight: 800;
+     color: var(--bgTheme);
+     margin-top: 15px;
+}
+.img_content p{
+     font-family: var(--lora);
+     font-size: 13px;
+     line-height: 25px;
+     font-weight: 500;
+     color: #4C7C6C;
+     margin-top: 5px;
+}
+
+     /* Our Team services */
+.services{
+     width: 100%;
+     padding-bottom: 70px;
+}
+.services p{
+     font-family: var(--lora);
+     font-size: 18px;
+     font-weight: 800;
+     color: var(--bgTheme);
+     padding: 5px;
+}
+.left_border,
+.right_border
+{
+     height: 1px;
+     width: 477px;
+     background-color: var(--bgTheme);
+}
+
+.services_content{
+     width: 33.33%;
+     margin-bottom: 30px;
+}
+.services_content_icon{
+     width: 100%;
+     font-size: 50px;
+     text-align: center;
+     margin-bottom: 30px;
+     color: var(--menucolor);
+}
+.services_content_title h2{
+     font-family: var(--dosis);
+     font-size: 22px;
+     line-height: 27px;
+     font-weight: 800;
+     color: #374E41;
+}
+.servoces_content_text p{
+     padding: 20px;
+     font-family: var(--lora);
+     font-size: 13px;
+     line-height: 23px;
+     font-weight: 500;
+     text-align: center;
+     color: var(--paragraph);
+}
+
+     /* Our Team LATEST ACHIEVMENTS*/
+.latest_img{
+     height: 650px;
+     width: 100%;
+     position: relative;
+}
+.latest_line{
+     position: absolute;
+     top: 20%;
+     left: 50%;
+     transform: translateX(-50%);
+     height: 5px;
+     width: 70px;
+     background-color: var(--menucolor);
+}
+.latest_sec_content h2{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 33px;
+     line-height: 39px;
+     color: var(--colorwhite);
+     position: absolute;
+     top: 20%;
+     left: 50%;
+     margin-top: 20px;
+     transform: translateX(-50%);
+}
+.latest_sec_content p{
+     width: 650px;
+     font-family: var(--lora);
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 25.5px;
+     color: var(--colorwhite);
+     position: absolute;
+     top: 25%;
+     left: 50%;
+     margin-top: 40px;
+     text-align: center;
+     transform: translateX(-50%);
+}
+.laest_num_count{
+     position: absolute;
+     padding: 50px;
+     top: 50%;
+     left: 0;
+     width: 100%;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+}
+.latest_icon{
+     font-size: 50px;
+     color: var(--colorwhite);
+     text-align: center;
+}
+.laest_num_count h2{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 54px;
+     line-height: 64px;
+     color: var(--colorwhite);
+     text-align: center;
+}
+.laest_num_count p{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 21px;
+     line-height: 25px;
+     color: var(--colorwhite);
+     text-align: center;
+     margin-top: 15px;
+}
+
+/*   ==========================================================================
+                    ★        Fourth Section Design        ★
+                                 Featured Tours
+     ========================================================================== */
+     /* Featured Tours Section*/
+.team_img i{
+     color: var(--menucolor);
+     font-size: 40px;
+}
+.teamsec_title{
+     text-align: center;
+}
+.team_title{
+     margin-top: 30px;
+}
+.team_title p{
+     width: auto;
+     font-family: var(--dosis);
+     font-size: 60px;
+     font-weight: 500;
+     color: var(--bgTheme);
+     padding-bottom: 20px;
+     border-bottom: 3px solid var(--bgTheme);
+}
+.team_title_content{
+     font-family: var(--lora);
+     font-size: 22px;
+     font-style: italic;
+     margin-bottom: 28px;
+     color: var(--bgTheme);
+     margin-top: 5px;
+}
+.team_img{
+     position: relative;
+}
+.team_star{
+     position: absolute;
+     top: 0;
+     left: 50%;
+     margin-top: 5px;
+     transform: translateX(-50%);
+}
+.team_star i{
+     font-size: 16px;
+     color: var(--colorwhite);
+}
+.team_title_paragraph{
+     width: 60%;
+     margin: 0 auto;
+     font-family: var(--lora);
+     font-size: 15px;
+     margin-bottom: 25px;
+     color: var(--paragraph);
+}
+
+.top_padding{
+     padding-top: 70px;
+}
+
+.tour_left_side{
+     width: 50%;
+     height: 338px;
+     position: relative;
+     overflow: hidden;
+}
+.tour_right_side{
+     width: 50%;
+     height: 338px;
+     position: relative;
+     overflow: hidden;
+}
+
+.tour_line{
+     height: 4px;
+     width: 50px;
+     margin: 15px auto;
+     background-color: var(--colorwhite);
+}
+.tour_content{
+     position: absolute;
+     top: 50%;
+     left: 40%;
+     transform: translateY(-50%);
+     text-align: center;
+     opacity: 0;
+     transition: .3s;
+}
+.tour_content h2{
+     font-family: var(--dosis);
+     font-size: 26px;
+     font-weight: 800;
+     line-height: 31.5px;
+     color: var(--colorwhite);
+}
+.tour_content p{
+     font-family: var(--lora);
+     font-size: 13px;
+     font-weight: 500;
+     line-height: 18px;
+     color: var(--colorwhite);
+}
+
+.tour_left_side img{
+     transition: .3s;
+}
+.tour_right_side img{
+     transition: .3s;
+}
+
+.tour_left_side:hover img,
+.tour_right_side:hover img{
+     transform: scale(1.2);
+     filter: brightness(.8) contrast(80%);
+}
+.tour_left_side:hover video,
+.tour_right_side:hover video{
+     transform: scale(1.2);
+     filter: brightness(.8) contrast(80%);
+}
+.tour_left_side:hover .tour_content{
+     opacity: 1;
+}
+.tour_right_side:hover .tour_content{
+     opacity: 1;
+}
+
+/*   ==========================================================================
+                    ★        Fifth Section Design        ★
+                                   FAQ'S
+     ========================================================================== */
+     /* Faq's Tours Section*/
+
+.faq_img i{
+     color: var(--menucolor);
+     font-size: 40px;
+}
+.faq_sec_title{
+     text-align: center;
+}
+.faq_title{
+     margin-top: 30px;
+}
+.faq_title p{
+     width: auto;
+     font-family: var(--dosis);
+     font-size: 60px;
+     font-weight: 500;
+     color: var(--bgTheme);
+     padding-bottom: 20px;
+     border-bottom: 3px solid var(--bgTheme);
+}
+.faq_title_content{
+     font-family: var(--lora);
+     font-size: 22px;
+     font-style: italic;
+     margin-bottom: 28px;
+     color: var(--bgTheme);
+     margin-top: 5px;
+}
+.faq_left_content{
+     width: 50%;
+     padding: 0 15px;
+     margin-bottom: 20px;
+}
+.faq_title_para{
+     width: 810px;
+     font-family: var(--lora);
+     font-size: 15px;
+     line-height: 25px;
+     color: var(--paragraph);
+     margin: 0 auto;
+     padding-bottom: 50px;
+}
+
+
+.faq_left_side{
+     width: 65%;
+     padding: 0 18px;
+}
+.faq_right_side{
+     width: 35%;
+     padding: 0 18px;
+}
+.faq_right_side img{
+     height: 413px;
+}
+
+details{
+     padding: 0 !important;
+     border: none !important;
+}
+details:hover{
+     cursor: pointer;
+}
+.detail_1 details summary{
+     background-color: #F5F8F9;
+     border: 1px solid #E7EEF0;
+     outline: none !important;
+}
+.detail_1 details summary > font{
+     font-family: var(--lora);
+     font-size: 17px;
+     font-weight: 800;
+     line-height: 48px;
+     color: #374E41;
+     padding-left: 10px;
+}
+.detail_1 details>p{
+     padding: 20px;
+     font-family: var(--lora);
+     font-size: 15px;
+     line-height: 25px;
+     font-weight: 500;
+     color: var(--paragraph);
+     border: 1px solid #E7EEF0;
+     background-color: var(--colorwhite);
+
+}
+details > summary {
+     list-style-type: none;
+     padding-left: 20px;
+}
+ 
+details > summary::-webkit-details-marker {
+     display: none;
+}
+ 
+details > summary::before {
+     content: '▶️';
+}
+ 
+details[open] > summary::before {
+     content: '🔽';
+}
+ 
+details{
+     border: 1px solid gray;
+     border-radius: 0.2rem;
+     padding: 0.5rem;
+}
+
+
+.instagram_img{
+     padding-bottom: 70px;
+}
+.ins_img{
+     width: 16.66%;
+     overflow: hidden;
+}
+
+.ins_img img{
+     transform: scale(1);
+     transition: .5s;
+}
+.ins_img:hover img{
+     transform: scale(1.05);
+     filter: contrast(80%);
+     cursor: pointer;
+}
+
+
+
+
+/*   ==========================================================================
+                    ★        Sixth Section Design        ★
+                              Contact Information
+     ========================================================================== */
+     /* Contact Information Section*/
+.contact_img{
+     background-image: url(../image/asset\ 34.jpeg);
+     width: 100%;
+     height: 758px;
+}
+.contact_line{
+     height: 5px;
+     width: 70px;
+     background-color: var(--menucolor);
+     margin: 0 auto;
+}
+.contact_sec_content h2{
+     font-family: var(--dosis);
+     font-weight: 500;
+     font-size: 33px;
+     line-height: 39px;
+     color: var(--colorwhite);
+     margin-top: 20px;
+     text-align: center;
+     
+}
+.contact_sec_content p{
+     width: 60%;
+     font-family: var(--lora);
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 25.5px;
+     color: var(--colorwhite);
+     text-align: center;
+     margin: 15px auto 0;
+}
+
+.contact_slide{
+     color: #6C7772;
+     width: 100%;
+}
+.contact_left{
+     width: 65%;
+     padding: 0 18px;
+}
+.contact_left input{
+     width: 100%;
+     background-color: rgba(255,255,255,0.08);
+     padding: 10px 14px;
+     border: 1px solid var(--colorwhite);
+     margin: 0 0 18px;
+     outline: transparent;
+}
+.contact_left textarea{
+     width: 100%;
+     height: 150px;
+     background-color: rgba(255,255,255,0.08);
+     padding: 10px 14px;
+     border: 1px solid var(--colorwhite);
+     margin: 0 0 18px;
+     outline: transparent;
+}
+
+.contact_left textarea:focus,
+.contact_left input:focus
+{
+    border: 1px solid rgba(216, 79, 12 ,0.65);
+    background-color: rgba(216, 79, 12 ,0.05);
+    color: #d84f0c;
+}
+
+.contact_left p{
+     width: 130px;
+     background-color: var(--menucolor);
+     font-size: 12px;
+     font-weight: 800;
+     line-height: 25.5px;
+     font-family: var(--dosis);
+     color: var(--colorwhite);
+     text-align: center;
+     padding: 8px 20px;
+     transition: .3s;
+     margin-bottom: 50px;
+}
+.contact_left p:hover{
+     background-color: var(--bgTheme);
+}
+
+
+.contact_right{
+     width: 35%;
+     padding: 0 18px;
+}
+.contact_right h2{
+     font-size: 21px;
+     font-family: var(--dosis);
+     font-weight: 800;
+     line-height: 23px;
+     color: var(--colorwhite);
+}
+.contact_right p{
+     width: 50%;
+     font-size: 13px;
+     font-family: var(--dosis);
+     font-weight: 800;
+     line-height: 23px;
+     color: var(--colorwhite);
+}
+.contact_right p:nth-child(2){
+     padding-top: 10px;
+     padding-bottom: 28px;
+}
+
+.contact_right_line{
+     height: 5px;
+     width: 50px;
+     background-color: var(--colorwhite);
+     margin-left: 0;
+     margin-bottom: 24px;
+}
+
+/*   ==========================================================================
+                    ★        Footer Section Design        ★
+                              Footer Information
+     ========================================================================== */
+     /* Footer Section*/
+
+.footer{
+     padding: 0 18px;
+}
+.footer_line{
+     width: 100%;
+     height: 1px;
+     background-color: var(--colorwhite);
+     margin-bottom: 10px;
+}
+.follow p,
+.developed p
+{
+     font-size: 11px;
+     font-family: var(--lora);
+     font-weight: 500;
+     line-height: 25px;
+     color: var(--colorwhite);
+}
+.follow span,
+.developed span
+{
+     font-size: 11px;
+     font-family: var(--lora);
+     font-weight: 500;
+     line-height: 25px;
+     color: var(--menucolor);
+     margin: 0 5px;
+}
